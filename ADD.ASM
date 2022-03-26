@@ -1,4 +1,3 @@
-
 ;Program to add two numbers.
 dosseg
 .model small
